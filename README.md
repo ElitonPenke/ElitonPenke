@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎯 Desde cedo, minha paixão por tecnologia me guiou. Atualmente, como estudante do 4º semestre de Engenharia de Software, busco aplicar e expandir minhas habilidades em Python, Java, HTML, CSS e MySQL. <br>📚 Sou movido por desafios e busco crescer profissionalmente na área de TI.</p>
+<p align="left">🎯 Desde cedo, minha paixão por tecnologia me guiou. Atualmente, como estudante do 4º semestre de Engenharia de Software, busco aplicar e expandir minhas habilidades em Python, HTML, CSS e SQL. <br>📚 Sou movido por desafios e busco crescer profissionalmente na área de TI.</p>
 
 ###
 
